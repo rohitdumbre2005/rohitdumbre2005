@@ -9,7 +9,7 @@
 - 🎓 BTech computer engineering Graduate
 - 📊 Advanced Course in Web Development
 - 💼 Web Development Intern at ProAzure Software Solution Pvt. Ltd.
-- 🧠 Currently learning Software Development Generative AI
+- 🧠 Currently learning Software Development ,Generative AI
 - 💡 Passionate about solving real-world business problems using AI
 
 ---
