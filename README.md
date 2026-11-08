@@ -1,7 +1,7 @@
 
-<!-- ================================================= -->
-<!-- ROHIT DUMBRE | PROFESSIONAL GITHUB PROFILE         -->
-<!-- ================================================= -->
+<!-- ===================================================== -->
+<!-- ROHIT DUMBRE | GITHUB PROFILE README                    -->
+<!-- ===================================================== -->
 
 <h1 align="center">👋 Hi, I'm Rohit Dumbre</h1>
 
@@ -10,20 +10,32 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=55&lines=Aspiring+Forward+Deployed+Engineer;Building+Real-World+Software+Solutions;Python+%7C+Java+%7C+C%23+Developer;Backend+%26+API+Development;Exploring+Generative+AI+%26+LLMs;Turning+Ideas+Into+Reality" alt="Typing Animation"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=55&lines=Aspiring+Forward+Deployed+Engineer;Building+Real-World+Software+Solutions;Python+%7C+Java+%7C+C%23+Developer;Backend+%26+API+Development;Exploring+Generative+AI+%26+LLMs;Turning+Ideas+Into+Reality"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitdumbre2005&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/rohitdumbre2005?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=rohitdumbre2005&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/rohitdumbre2005?label=Followers&style=for-the-badge&color=blue"
+    alt="GitHub Followers"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/rohitdumbre2005">
-    <img src="https://img.shields.io/badge/GitHub-Rohit%20Dumbre-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/rohit-dumbre-59054a431/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rohitdumbre2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -31,17 +43,12 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech Computer Engineering Graduate**
-
-💼 Web Development Intern at ProAzure Software Solution Pvt. Ltd.
-
-💻 Interested in Software Development and Backend Engineering.
-
-🧠 Exploring Generative AI, Large Language Models and AI Agents.
-
-⚡ Passionate about building practical applications and solving real-world business problems.
-
-🎯 Aspiring to become a **Forward Deployed Engineer**.
+- 🎓 B.Tech Computer Engineering Graduate.
+- 💼 Web Development Intern at ProAzure Software Solution Pvt. Ltd.
+- 💻 Interested in Software Development and Backend Engineering.
+- 🧠 Exploring Generative AI, Large Language Models and AI Agents.
+- ⚡ Passionate about building practical applications and solving real-world business problems.
+- 🎯 Aspiring to become a **Forward Deployed Engineer**.
 
 > "I believe in learning by building, experimenting, and solving real-world problems."
 
@@ -58,7 +65,7 @@
 ### ⚙️ Web & Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,dotnet,fastapi&theme=dark" alt="Web and Backend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,dotnet,fastapi&theme=dark" alt="Web and Backend Technologies"/>
 </p>
 
 ### 🗄️ Database & Data Visualization
@@ -83,6 +90,7 @@
 An IoT-based vehicle safety system designed to detect accidents and automatically report emergency locations.
 
 **Key Features**
+
 - Automatic accident detection using a vibration sensor.
 - Real-time GPS location tracking.
 - MQTT-based cloud communication.
@@ -100,6 +108,7 @@ An IoT-based vehicle safety system designed to detect accidents and automaticall
 A web-based application designed to evaluate student video presentations using structured assessment criteria.
 
 **Key Features**
+
 - Student assessment management.
 - Rubric-based evaluation.
 - Mentor feedback management.
@@ -117,6 +126,7 @@ A web-based application designed to evaluate student video presentations using s
 A collection of practical programming exercises focused on C# and Object-Oriented Programming.
 
 **Topics Covered**
+
 - Arrays and Collections.
 - Interfaces and Inheritance.
 - Indexers.
@@ -154,12 +164,28 @@ A collection of practical programming exercises focused on C# and Object-Oriente
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitdumbre2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdumbre2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rohitdumbre2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdumbre2005&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Most Used Languages"
+  />
 </p>
 
+---
+
+## 🔥 GitHub Contribution Streak
+
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=rohitdumbre2005&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=rohitdumbre2005&theme=tokyonight&hide_border=true"
+    width="75%"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -167,7 +193,11 @@ A collection of practical programming exercises focused on C# and Object-Oriente
 ## 🐍 My Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohitdumbre2005/rohitdumbre2005/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+  <img
+    src="https://raw.githubusercontent.com/rohitdumbre2005/rohitdumbre2005/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
 </p>
 
 ---
@@ -189,9 +219,11 @@ A collection of practical programming exercises focused on C# and Object-Oriente
   <a href="https://github.com/rohitdumbre2005">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
   <a href="https://www.linkedin.com/in/rohit-dumbre-59054a431/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="mailto:rohitdumbre2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
