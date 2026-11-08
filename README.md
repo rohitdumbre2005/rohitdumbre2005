@@ -163,18 +163,22 @@ A collection of practical programming exercises focused on C# and Object-Oriente
 
 ## 📊 GitHub Analytics
 
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rohitdumbre2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=rohitdumbre2005&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdumbre2005&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rohitdumbre2005&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
     alt="Most Used Languages"
   />
 </p>
+
 
 ---
 
