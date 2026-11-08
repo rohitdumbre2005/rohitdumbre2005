@@ -161,9 +161,6 @@ A collection of practical programming exercises focused on C# and Object-Oriente
 
 ---
 
-## 📊 GitHub Analytics
-
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
