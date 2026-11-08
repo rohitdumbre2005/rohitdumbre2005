@@ -1,102 +1,206 @@
-# Hi there! 👋 I'm Rohit Dumbre
+
+<!-- ================================================= -->
+<!-- ROHIT DUMBRE | PROFESSIONAL GITHUB PROFILE         -->
+<!-- ================================================= -->
+
+<h1 align="center">👋 Hi, I'm Rohit Dumbre</h1>
+
+<h3 align="center">
+  Aspiring Forward Deployed Engineer | Software Developer | AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Intern;Aspiring+Data+Scientist;Python+Developer;Future+MS+Student+🇺🇸&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=55&lines=Aspiring+Forward+Deployed+Engineer;Building+Real-World+Software+Solutions;Python+%7C+Java+%7C+C%23+Developer;Backend+%26+API+Development;Exploring+Generative+AI+%26+LLMs;Turning+Ideas+Into+Reality" alt="Typing Animation"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitdumbre2005&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/rohitdumbre2005?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rohitdumbre2005">
+    <img src="https://img.shields.io/badge/GitHub-Rohit%20Dumbre-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-dumbre-59054a431/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
 
 ## 🚀 About Me
 
-- 🎓 BTech computer engineering Graduate
-- 📊 Advanced Course in Web Development
-- 💼 Web Development Intern at ProAzure Software Solution Pvt. Ltd.
-- 🧠 Currently learning Software Development ,Generative AI
-- 💡 Passionate about solving real-world business problems using AI
+🎓 **B.Tech Computer Engineering Graduate**
 
----
-## 💻 Tech Stack
+💼 Web Development Intern at ProAzure Software Solution Pvt. Ltd.
 
-### Programming Languages
-- Java
-- Python
-- SQL
-- C
+💻 Interested in Software Development and Backend Engineering.
 
-### Web Development
+🧠 Exploring Generative AI, Large Language Models and AI Agents.
 
-- HTML
-- CSS
-- Javascript
+⚡ Passionate about building practical applications and solving real-world business problems.
 
-### Database
-- MySQL
+🎯 Aspiring to become a **Forward Deployed Engineer**.
 
-### Visualization
-- Power BI
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+> "I believe in learning by building, experimenting, and solving real-world problems."
 
 ---
 
-## 📂 Projects
+## 💻 Technology Stack
 
-### 💎 Car Accident Detection, Prevention and Reporting Using ESP-32
+### 👨‍💻 Programming Languages
 
-An IoT-based vehicle safety system for automatic accident detection and real-time emergency reporting.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,c,js&theme=dark" alt="Programming Languages"/>
+</p>
 
-Features
+### ⚙️ Web & Backend Development
 
-Automatic Accident Detection
-Real-Time GPS Location Tracking
-MQTT-Based Alert Communication
-Flutter Mobile Application
-Emergency Notification
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,dotnet,fastapi&theme=dark" alt="Web and Backend"/>
+</p>
 
-Tech Used
+### 🗄️ Database & Data Visualization
 
-ESP32
-Vibration Sensor
-GPS NEO-6M
-MQTT
-Flutter
-Wi-Fi
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+### 🛠️ Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,jupyter&theme=dark" alt="Developer Tools"/>
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Featured Projects
 
-- Generative AI
-- Large Language Models (LLMs)
-- LangChain
-- AI Agents
-- RAG
-- Computer Vision
+### 🚗 1. Car Accident Detection, Prevention and Reporting System
+
+An IoT-based vehicle safety system designed to detect accidents and automatically report emergency locations.
+
+**Key Features**
+- Automatic accident detection using a vibration sensor.
+- Real-time GPS location tracking.
+- MQTT-based cloud communication.
+- Flutter mobile accident notification.
+- Emergency location reporting.
+
+**Technology Stack**
+
+`ESP32` `Vibration Sensor` `GPS NEO-6M` `MQTT` `Wi-Fi` `Flutter`
+
+---
+
+### 🎓 2. Student Video Assessment System
+
+A web-based application designed to evaluate student video presentations using structured assessment criteria.
+
+**Key Features**
+- Student assessment management.
+- Rubric-based evaluation.
+- Mentor feedback management.
+- REST API integration.
+- MySQL database storage.
+
+**Technology Stack**
+
+`React.js` `Python` `FastAPI` `MySQL` `REST API`
+
+---
+
+### 💻 3. .NET Programming Projects
+
+A collection of practical programming exercises focused on C# and Object-Oriented Programming.
+
+**Topics Covered**
+- Arrays and Collections.
+- Interfaces and Inheritance.
+- Indexers.
+- Object-Oriented Programming.
+
+**Technology Stack**
+
+`C#` `.NET` `OOP`
+
+🔗 **Explore Repository:** [C# .NET Projects](https://github.com/rohitdumbre2005/.net)
+
+---
+
+## 🧠 Currently Exploring
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Agents-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP-FF8C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-228B22?style=for-the-badge"/>
+</p>
+
+- Generative AI and Large Language Models.
+- Retrieval-Augmented Generation (RAG).
+- LangChain and AI Agents.
+- Model Context Protocol (MCP).
+- AI Application Development.
+- Backend Architecture and API Development.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitdumbre2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdumbre2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=rohitdumbre2005&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🐍 My Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitdumbre2005/rohitdumbre2005/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+</p>
 
 ---
 
 ## 🎯 Goals for 2026
 
-- Complete 50+ GitHub Projects
-- Master Data Structures & Algorithms
-- Build End-to-End AI Applications
+- [ ] Build 50+ practical programming projects.
+- [ ] Strengthen Data Structures and Algorithms.
+- [ ] Develop end-to-end AI applications.
+- [ ] Improve Backend Development skills.
+- [ ] Build real-world AI-powered solutions.
+- [ ] Grow as a Forward Deployed Engineer.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-- GitHub: https://github.com/rohitdumbre2005
-- LinkedIn: https://www.linkedin.com/in/rohit-dumbre-59054a431/
-- Email: rohitdumbre2005@gmail.com
+<p align="center">
+  <a href="https://github.com/rohitdumbre2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-dumbre-59054a431/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rohitdumbre2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
----
+<h3 align="center">
+  💡 Build Better. Deploy Smarter. Solve Real Problems.
+</h3>
 
-## 💬 Favorite Quote
-
-> "Success is built one commit at a time."
-
----
-
-⭐ If you like my projects, don't forget to star them!
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
