@@ -13,7 +13,6 @@
 - 💡 Passionate about solving real-world business problems using AI
 
 ---
-
 ## 💻 Tech Stack
 
 ### Programming Languages
