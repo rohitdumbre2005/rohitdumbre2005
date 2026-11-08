@@ -89,7 +89,7 @@ Wi-Fi
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/rohitdumbre2005
-- LinkedIn: Add Your LinkedIn
+- LinkedIn: https://www.linkedin.com/in/rohit-dumbre-59054a431/
 - Email: rohitdumbre2005@gmail.com
 
 ---
